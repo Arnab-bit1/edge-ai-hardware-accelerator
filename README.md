@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Verilog-B0CE4E?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
   <img src="https://img.shields.io/badge/FPGA-FF6600?style=for-the-badge&logo=xilinx&logoColor=white" alt="FPGA" />
-  <img src="https://img.shields.io/badge/IEEE%20Hackathon-Submission-blue?style=for-the-badge" alt="Hackathon" />
 </p>
 
 > **A highly optimized, RTL-level 1D Convolutional Neural Network accelerator designed for Edge AI, featuring a 100% hand-coded Multiply-Accumulate (MAC) datapath.**
